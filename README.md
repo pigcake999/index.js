@@ -7,6 +7,7 @@ Javascript site package install to any website!
 
 ![](https://i.imgsafe.org/af71bcfd74.jpg)
 
+
 2. Unzip the downloaded file.
 
 ### 3. Rename folder to project name and begin!
