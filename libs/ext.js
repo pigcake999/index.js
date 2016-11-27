@@ -25,7 +25,7 @@ var obj = {
 
 var indexjs = {
 	"install": function(pkg,type,hostedURL){
-		if(type == "script"){$("head").append(pkg);}
+		if(type == "script"){$("head").append("<script src='"+hostedURL+"'></script> <!-- "+pkg+"-->");}
 		else{if(type == "link"){$("head").append("<link rel='"+hostedURL+"'> <!-- "+pkg+"-->");}}
 	}
 }
