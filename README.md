@@ -10,4 +10,4 @@ Javascript site package install to any website!
 
 ### Rename folder to project name and begin!
 
-:Credits to pigcake999yt
+Credits to pigcake999yt
