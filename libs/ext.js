@@ -13,7 +13,7 @@ var obj = {
 			}	   
 		}
 		if(type == "style"){
-			$("head").append("style"+data+"</style>");
+			$("head").append("[[<style>"+data+"</style>");
 		}
 	},
 	
